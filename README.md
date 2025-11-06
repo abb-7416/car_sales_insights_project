@@ -1,5 +1,5 @@
-# 🚗 Car Sales Insights Dashboard  
-**PGDM (AI & Data Science) — Trimester II Project**  
+# 🚗 SQL for Data Science — 🗄️ Sales Insights Data Pipeline useing kaggle data set Car Sales Insights Dashboard  
+**PGDM (AI & Data Science) -
 **Author:** Akhilesh Kakarla  
 **Tools Used:** Python (Pandas, Matplotlib), Power BI, SQL  
 
